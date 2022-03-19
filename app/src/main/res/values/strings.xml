@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quick Chat</string>
+    <string name="txt_connect_together">Connect Together</string>
+    <string name="txt_connect_together_hint">Lets connect with the world</string>
+    <string name="get_started">Get Started</string>
+    <string name="txt_login">Log in</string>
+    <string name="txt_sign_up">Sign-up</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_create_account">Create Account</string>
+    <string name="txt_already_have_account">Already have an account?</string>
+    <string name="email_verification">Email Verification</string>
+    <string name="email_verification_hint">We need to register your email before getting started</string>
+    <string name="txt_verify_email">Verify Email</string>
+    <string name="txt_dont_have_account">Don\'t have an account?</string>
+    <string name="txt_login_to_your_account">Login to your account</string>
+    <string name="txt_chat">Chat</string>
+</resources>
